@@ -11,7 +11,7 @@
   </a>
 </div>
 <div id="profile-views" align="center">
-<img src="https://komarev.com/ghpvc/?username=geraldmbuthia&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=geraldombuthia&style=flat-square&color=blue" alt=""/>
   </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
@@ -33,11 +33,11 @@
   Email 📧: [geraldombuthia@gmail.com](https://geraldombuthia@gmail.com)
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geraldmbuthia&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geraldombuthia&theme=dark&background=000000)](https://git.io/streak-stats)
 
 :hammer_and_wrench: Languages and Tools :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geraldmbuthia&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geraldombuthia&show_icons=true&theme=transparent)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldmbuthia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldombuthia&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
