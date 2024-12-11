@@ -20,11 +20,11 @@
 
 - I am a Software Engineer from Kenya with a background in Electrical and Electronics Engineering (Telecommunications)
 
-- :telescope: I’m work as a Firmware Engineer at Novek.  
+- :telescope: I work as a Firmware Engineer at Novek.  
 
 - :seedling: Exploring Embedded Systems and IoT.
 
-- :zap: In my free time, I study Systems engineering.
+- :zap: I study Systems engineering.
 
 - :mailbox: How to reach me: 
   
