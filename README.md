@@ -50,6 +50,7 @@ Raspberry Pi + Node.js web interface for real-time sensor training kits for 60+ 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-blue?style=flat&logo=arm&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-44cc11?style=flat&logoColor=white)
